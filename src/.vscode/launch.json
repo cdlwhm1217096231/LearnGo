@@ -1,0 +1,17 @@
+{
+    "version": "0.2.0",
+    "configurations": [{
+            "name": "LaunchGo",
+            "type": "go",
+            "request": "launch",
+            "mode": "auto",
+            "program": "${fileDirname}",
+            "env": {
+                "GOPATH": "E:\\LearnGo\\src\\CurryCoder.com\\StudyGolang",
+                "GOROOT": "D:\\Go_Dir"
+            },
+            "args": [],
+            //"showLog": true
+        }
+    ]
+}
